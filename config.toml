@@ -1,5 +1,6 @@
-baseurl = "https://stevengonz.github.io"
+baseurl = "https://setegonz.github.io"
 languageCode = "en-us"
-title = "Hugo minimalist SPA"
+title = "Steven Gonzalez Lugo"
 author = "Sergio Abreu García"
 theme = "../.."
+publishDir = "setegonz.github.io"
