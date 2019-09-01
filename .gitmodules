@@ -1,0 +1,6 @@
+[submodule "hugo-minimalist-spa"]
+	path = hugo-minimalist-spa
+	url = https://github.com/Sag-Dev/hugo-minimalist-spa.git
+[submodule "themes/hugo-minimalist-spa"]
+	path = themes/hugo-minimalist-spa
+	url = https://github.com/Sag-Dev/hugo-minimalist-spa.git
