@@ -2,7 +2,7 @@
 title: Projects
 ---
 
-<br>
+<!-- <br>
 <h1 id="howtousemustread">How to use (MUST READ)</h1>
 
 <p>This is not the usual Hugo theme you can download and start
@@ -308,4 +308,4 @@ To skip this problem, I use a temporal <code>&lt;div&gt;</code> whose id is the 
 which has direct access to the <code>.Title</code> through Hugo. The JavaScript router then takes the id (if it's not empty, which means
 a custom title has been set), and uses it to set the navigation bar proper names. After that it extracts the inner HTML of
 the temporal <code>&lt;div&gt;</code>, created by the single layout, to finally get disposed of it.</p>
-<br>
+<br> -->
